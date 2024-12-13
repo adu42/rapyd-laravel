@@ -11,10 +11,9 @@
     ],
     "require": {
         "php": ">=7.3",
-        "illuminate/support": "*",
         "cyberwolf888/html": "^7.*",
         "intervention/image": "*",
-        "zofe/burp": "^3.1.3"
+        "adu42/burp": "master"
     },
     "suggest": {
         "baum/baum": "Allows to use the DataTree widget"
