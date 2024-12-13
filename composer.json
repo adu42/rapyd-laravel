@@ -15,6 +15,12 @@
         "intervention/image": "*",
         "adu42/burp": "master"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:adu42/burp.git"
+        }
+    ],
     "suggest": {
         "baum/baum": "Allows to use the DataTree widget"
     },
