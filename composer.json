@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.3",
-        "cyberwolf888/html": "^7.*",
+        "cyberwolf888/html": "~7.*",
         "intervention/image": "*",
         "adu42/burp": "master"
     },
